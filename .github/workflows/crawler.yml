@@ -117,5 +117,5 @@ jobs:
             sleep $((i * 3))
           done
           
-          echo "❌ Failed to push after 5 attempts "
+          echo "❌ Failed to push after 5 attempts"
           exit 1
