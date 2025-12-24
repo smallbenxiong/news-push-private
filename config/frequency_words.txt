@@ -89,3 +89,6 @@ claude
 Anthropic
 qwen
 !gai
+databricks
+Replit
+Cursor
